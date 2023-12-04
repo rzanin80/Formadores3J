@@ -1,5 +1,5 @@
 body{
-    background: #CCCCCC
+    background: yellow
 }
 h1{
     text-align: center;
@@ -7,10 +7,11 @@ h1{
 p{
     text-align: center;
 }
-#missao{
-    font-size: 40px
+#atuacao{
+    font-size: 100px
 
 }
 em strong{
+    font-size: 100px;
     color: green;
 }
