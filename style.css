@@ -1,8 +1,9 @@
 body{
-    background: rgb(247, 160, 10)  
+    background: rgba(247, 160, 10, 0.068)  
 }
 h1{
     text-align: center;
+    font-weight: 100;
 }
 p{
     text-align: center;
@@ -13,6 +14,6 @@ p{
 
 }
 em strong{
-    font-size: 100px;
-    color: rgb(24, 83, 24);
+    font-size: 50px;
+    color: rgb(24, 35, 83);
 }
