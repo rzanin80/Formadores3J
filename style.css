@@ -1,5 +1,5 @@
 body{
-    background: rgba(247, 160, 10, 0.068)  
+    background: rgba(238, 123, 29, 0.068)  
 }
 h1{
     text-align: center;
@@ -7,13 +7,13 @@ h1{
 }
 p{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 #atuacao{
     font-size: 50px
 
 }
 em strong{
-    font-size: 50px;
-    color: rgb(24, 35, 83);
+    font-size: 40px;
+    color: rgb(51, 82, 218);
 }
