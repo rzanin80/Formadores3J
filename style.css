@@ -3,15 +3,16 @@ body{
 }
 #Potes
 {
-width: 20%;
+    width: 20%;
 }
 #cartela
 {
-width: 20%;
+    width: 20%;
+    height: 10%;
 }
 #alho frito
 {
-width: 20%;
+    width: 20%;
 }
 h1{
     text-align: center;
